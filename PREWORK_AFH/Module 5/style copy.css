@@ -1,0 +1,44 @@
+ h1 { 
+     text-align: center;
+}
+ h2 {
+     font-weight: bold;
+ }
+ .box-1 {
+     color: red;
+ }
+ .box-2 {
+     color: blue;
+ }
+ .box-3 {
+     color:green;
+ }
+ .box-4 {
+    font-size: larger;
+ }
+ .box-5 {
+     font-size: smaller;
+ }
+ .box-6 {
+     text-align: center;
+ }
+ .box-7 {
+     font-weight: bold;
+ }
+ .box-8 {
+     font-family: cursive;
+ }
+ .box-9 {
+     font-size: larger;
+     color: orange;
+     font-weight: bold;
+ }
+ .styledFont {
+     color: green;
+ }
+ img {
+     border-right: 5px red solid;
+     border-left: 5px red solid;
+     border-top: 5px red solid;
+     border-bottom: 5px red solid;
+ }
